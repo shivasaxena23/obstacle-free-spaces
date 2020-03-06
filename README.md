@@ -2,6 +2,7 @@
 Convex Optimization Project
 
 ### Main Paper
+Computing Large Obstacle-free spaces [(Paper)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.479.7244&rep=rep1&type=pdf) [(Sample)](https://ece.uwaterloo.ca/~ece602/Projects/2018/Project23/main.html)
 
 ### Survey of techniques to compute obstacle free spaces
 
@@ -15,7 +16,7 @@ Convex Optimization Project
 ### Papers Citing the main paper
 - https://jrobio.springeropen.com/articles/10.1186/s40638-017-0079-x
 - https://www.igi-global.com/chapter/enhanced-footsteps-generation-method-for-walking-robots-based-on-convolutional-neural-networks/227842
-- https://dl.acm.org/doi/pdf/10.1145/3313276.3316402?- casa_token=3GFwsN22HVYAAAAA:RYZwhep3cDxTX3hcmz1wp1y8yaBxYq8oSexqM1YWVInwExOIaFhi3HlTa3T6XpSReDiBRklSbJP2
+- https://dl.acm.org/doi/pdf/10.1145/3313276.3316402?-casa_token=3GFwsN22HVYAAAAA:RYZwhep3cDxTX3hcmz1wp1y8yaBxYq8oSexqM1YWVInwExOIaFhi3HlTa3T6XpSReDiBRklSbJP2
 - https://arxiv.org/pdf/1809.06427.pdf
 - https://vikas.sindhwani.org/tross.pdf
 - https://arxiv.org/pdf/1909.05516.pdf
