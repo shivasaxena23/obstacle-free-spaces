@@ -31,8 +31,12 @@ Computing Large Obstacle-free spaces [(Paper)](http://citeseerx.ist.psu.edu/view
 - The culling operation is performed for two adjacent convex hulls.
 
 ### Rough Tasks
-- [ ] Run Code
-- [ ] Read and understand the paper
+- [x] Run Code
+- [x] Read and understand the paper
+- [x] Understand Matlab Code
+- [ ] Non-convex to convex obstacles
+- [ ] Understand python code and efficiency
+- [ ] Reduce hyperplane generating computations by reusing
 - [ ] Extend to dynamic setting
 - [ ] Modify code for dynamic setting
 - [ ] use GPU
