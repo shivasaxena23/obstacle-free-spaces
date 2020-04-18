@@ -35,12 +35,12 @@ Computing Large Obstacle-free spaces [(Paper)](http://citeseerx.ist.psu.edu/view
 - [x] Read and understand the paper
 - [x] Understand Matlab Code
 - [ ] Non-convex to convex obstacles
-- [ ] Understand python code and efficiency
-- [ ] Modify Matlab code for dynamic obstacles
+- [x] Understand python code and efficiency
+- [x] Modify Matlab code for dynamic obstacles
 - [ ] Read paper's citing main paper
-- [ ] Reduce hyperplane generating computations by reusing
+- [x] Reduce hyperplane generating computations by reusing
 - [ ] Extend to dynamic setting
-- [ ] Modify code for dynamic setting
+- [x] Modify code for dynamic setting
 - [ ] use GPU
 
 
