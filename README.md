@@ -1,6 +1,9 @@
 # obstacle-free-spaces
 Convex Optimization Project
 
+### Executing the code
+To execute the code, run IRIS.m
+
 ### Main Paper
 Computing Large Obstacle-free spaces [(Paper)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.479.7244&rep=rep1&type=pdf)
 
