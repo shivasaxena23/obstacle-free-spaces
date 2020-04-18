@@ -2,7 +2,7 @@
 Convex Optimization Project
 
 ### Main Paper
-Computing Large Obstacle-free spaces [(Paper)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.479.7244&rep=rep1&type=pdf) [(Sample)](https://ece.uwaterloo.ca/~ece602/Projects/2018/Project23/main.html) [(Code)](https://github.com/nightingale0131/ece602)
+Computing Large Obstacle-free spaces [(Paper)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.479.7244&rep=rep1&type=pdf)
 
 ### Survey of techniques to compute obstacle free spaces
 
